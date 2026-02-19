@@ -1,6 +1,6 @@
-# VigorMinds — SF Report Agent
+# AgentReport
 
-One-page static site for SF Report Agent.
+One-page static site for AgentReport.
 
 ## Update the screenshot
 
